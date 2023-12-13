@@ -24,5 +24,5 @@ if (age < 18) {
     console.log("You can drink alcohol");
 }
 
-//dont do this
+//don't do this
 let age = ("What is your age?", 15);
